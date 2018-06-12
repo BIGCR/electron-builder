@@ -1,6 +1,7 @@
 {
   "private": true,
   "license": "MIT",
+  "name": "electron-builder",
   "version": "2.0.0",
   "scripts": {
     "//": "do not wrap into single quotes - windows doesn't unwrap arg in this case",
@@ -25,7 +26,7 @@
     "serve-docs": "gitbook && http-server _book -c-1"
   },
   "//": "repository must be specified otherwise conventional-changelog will use forked repo (currently cloned)",
-  "repository": "https://github.com/electron-userland/electron-builder",
+  "repository": "https://github.com/BIGCR/electron-builder",
   "///": "All dependencies for all packages (hoisted)",
   "////": "All typings are added into root `package.json` to avoid duplication errors in the IDE compiler (several `node.d.ts` files).",
   "dependencies": {
