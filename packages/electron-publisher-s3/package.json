@@ -1,6 +1,6 @@
 {
   "name": "electron-publisher-s3",
-  "version": "0.0.0-semantic-release",
+  "version": "20.15.0",
   "main": "out/s3Publisher.js",
   "author": "Vladimir Krivosheev",
   "license": "MIT",
@@ -14,8 +14,8 @@
     "fs-extra-p": "^4.6.0",
     "aws-sdk": "^2.247.1",
     "mime": "^2.3.1",
-    "electron-publish": "~0.0.0-semantic-release",
-    "builder-util": "^0.0.0-semantic-release",
+    "electron-publish": "~20.15.0",
+    "builder-util": "^5.11.4",
     "bluebird-lst": "^1.0.5"
   },
   "typings": "./out/s3Publisher.d.ts"

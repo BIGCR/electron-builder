@@ -1,6 +1,6 @@
 {
   "name": "electron-updater",
-  "version": "0.0.0-semantic-release",
+  "version": "2.22.0",
   "description": "Cross platform updater for electron applications",
   "main": "out/main.js",
   "author": "Vladimir Krivosheev",
@@ -18,7 +18,7 @@
     "js-yaml": "^3.11.0",
     "semver": "^5.5.0",
     "source-map-support": "^0.5.6",
-    "builder-util-runtime": "~0.0.0-semantic-release",
+    "builder-util-runtime": "~4.2.1",
     "electron-is-dev": "^0.3.0",
     "lodash.isequal": "^4.5.0"
   },

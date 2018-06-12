@@ -1,6 +1,6 @@
 {
   "name": "builder-util",
-  "version": "0.0.0-semantic-release",
+  "version": "5.11.4",
   "main": "out/util.js",
   "author": "Vladimir Krivosheev",
   "license": "MIT",
@@ -19,7 +19,7 @@
     "bluebird-lst": "^1.0.5",
     "chalk": "^2.4.1",
     "debug": "^3.1.0",
-    "builder-util-runtime": "^0.0.0-semantic-release",
+    "builder-util-runtime": "^4.2.1",
     "source-map-support": "^0.5.6",
     "7zip-bin": "~4.0.2",
     "semver": "^5.5.0",
